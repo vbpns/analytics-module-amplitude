@@ -1,0 +1,1 @@
+export { AmplitudeAnalytics } from './AmplitudeAnalytics';
